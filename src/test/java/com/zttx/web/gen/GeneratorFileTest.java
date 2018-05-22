@@ -19,7 +19,7 @@ public class GeneratorFileTest extends TestCase
     public void testGeneratorCode() throws Exception
     {
         generatorFile.clean();
-        generatorFile.generateCRUDByTables("batchtool", "batch_tool_sku_search_log,batch_tool_modify_record,batch_tool_modify_detail".split(","));
+        generatorFile.generateCRUDByTables("pingjia", "pingjia_retry_log".split(","));
     }
 
     public void testClean() throws Exception

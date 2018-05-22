@@ -5,7 +5,7 @@
 package ${basepackage}.service.${subpackage};
 
 
-import com.boyuan.common.exception.ServiceException;
+import com.lzkj.common.exception.ServiceException;
 import ${basepackage}.pojo.${subpackage}.${className};
 
 /**
@@ -14,8 +14,8 @@ import ${basepackage}.pojo.${subpackage}.${className};
  * <p>Title: ${className}Service </p>
  * <p>Description:${className}Service </p>
  * <p>Copyright: Copyright (c) 一月 20，2016 </p>
- * <p>Company: 泊源科技</p>
- * @author 章旭楠
+ * <p>Company: 陆泽科技</p>
+ * @author 开发
  * @version 1.0
  */
 public interface ${className}Service {

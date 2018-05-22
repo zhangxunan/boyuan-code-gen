@@ -7,8 +7,8 @@ package ${basepackage}.dao;
 
 import org.springframework.stereotype.Repository;
 
-import com.boyuan.common.exception.DAOException;
-import com.boyuan.common.BaseDAO;
+import com.lzkj.common.exception.DAOException;
+import com.lzkj.common.BaseDAO;
 import ${basepackage}.pojo.${subpackage}.${className};
 
 /**
@@ -17,8 +17,8 @@ import ${basepackage}.pojo.${subpackage}.${className};
  * <p>Title: ${className}DAOImpl </p>
  * <p>Description:${className}DAOImpl </p>
  * <p>Copyright: Copyright (c) 一月 20，2016 </p>
- * <p>Company: 泊源科技</p>
- * @author 章旭楠
+ * <p>Company: 陆泽科技</p>
+ * @author 开发
  * @version 1.0
  */
 @Repository

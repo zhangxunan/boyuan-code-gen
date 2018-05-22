@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.boyuan.common.BaseController;
-import com.boyuan.common.utils.CookieUtil;
+import com.lzkj.common.BaseController;
+import com.lzkj.common.utils.CookieUtil;
 import ${basepackage}.pojo.${subpackage}.${className};
 import ${basepackage}.service.${subpackage}.${className}Service;
 
@@ -22,8 +22,8 @@ import ${basepackage}.service.${subpackage}.${className}Service;
  * <p>Title: ${className}Controller </p>
  * <p>Description:${table.sqlRemark} 控制器 </p>
  * <p>Copyright: Copyright (c) 一月 20，2016 </p>
- * <p>Company: 泊源科技</p>
- * @author 章旭楠
+ * <p>Company: 陆泽科技</p>
+ * @author 开发
  * @version 1.0
  */
 @Controller

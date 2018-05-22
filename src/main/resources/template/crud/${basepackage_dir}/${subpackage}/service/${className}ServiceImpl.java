@@ -9,8 +9,8 @@ import ${basepackage}.dao.${subpackage}.${className}DAO;
 import org.springframework.stereotype.Service;
 import org.springframework.beans.factory.annotation.Autowired;
 
-import com.boyuan.common.BaseService;
-import com.boyuan.common.exception.ServiceException;
+import com.lzkj.common.BaseService;
+import com.lzkj.common.exception.ServiceException;
 
 /**
  * ${table.sqlRemark} 服务实现类
@@ -18,8 +18,8 @@ import com.boyuan.common.exception.ServiceException;
  * <p>Title: ${className}ServiceImpl </p>
  * <p>Description:${className}ServiceImpl </p>
  * <p>Copyright: Copyright (c) 一月 20，2016 </p>
- * <p>Company: 泊源科技</p>
- * @author 章旭楠
+ * <p>Company: 陆泽科技</p>
+ * @author 开发
  * @version 1.0
  */
 @Service

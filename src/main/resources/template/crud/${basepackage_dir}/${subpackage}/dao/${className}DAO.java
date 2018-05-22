@@ -5,7 +5,7 @@
 package ${basepackage}.dao;
 
 import ${basepackage}.pojo.${subpackage}.${className};
-import com.boyuan.common.exception.DAOException;
+import com.lzkj.common.exception.DAOException;
 
 /**
  * ${table.sqlRemark} 持久层接口
@@ -13,8 +13,8 @@ import com.boyuan.common.exception.DAOException;
  * <p>Title: ${className}DAO </p>
  * <p>Description:${className}DAO </p>
  * <p>Copyright: Copyright (c) 一月 20，2016 </p>
- * <p>Company: 泊源科技</p>
- * @author 章旭楠
+ * <p>Company: 陆泽科技</p>
+ * @author 开发
  * @version 1.0
  */
 public interface ${className}DAO

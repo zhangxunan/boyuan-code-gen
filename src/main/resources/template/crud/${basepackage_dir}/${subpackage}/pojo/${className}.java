@@ -12,8 +12,8 @@ import java.io.Serializable;
  * <p>Title: ${className}</p>
  * <p>Description:${className}</p>
  * <p>Copyright: Copyright (c) 一月 20，2016 </p>
- * <p>Company: 泊源科技</p>
- * @author 章旭楠
+ * <p>Company: 陆泽科技</p>
+ * @author 开发
  * @version 1.0
  */
 public class ${className} implements Serializable
